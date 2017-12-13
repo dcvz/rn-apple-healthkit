@@ -17,6 +17,9 @@ export const Permissions = {
   BodyTemperature: "BodyTemperature",
   DateOfBirth: "DateOfBirth",
   DietaryEnergy: "DietaryEnergy",
+  DietaryCarbohydrates: "DietaryCarbohydrates",
+  DietaryFatTotal: "DietaryFatTotal",
+  DietaryProtein: "DietaryProtein",
   DistanceCycling: "DistanceCycling",
   DistanceWalkingRunning: "DistanceWalkingRunning",
   FlightsClimbed: "FlightsClimbed",
@@ -29,5 +32,6 @@ export const Permissions = {
   SleepAnalysis: "SleepAnalysis",
   StepCount: "StepCount",
   Steps: "Steps",
-  Weight: "Weight"
+  Weight: "Weight",
+  WorkoutType: "WorkoutType",
 }
